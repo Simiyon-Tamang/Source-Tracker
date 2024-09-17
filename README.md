@@ -1,7 +1,8 @@
-**Web Sources Tracker - Chrome Extension**
+# **Web Sources Tracker - Chrome Extension**
+
 Have you ever been overwhelmed by managing multiple sources while conducting research online? This Chrome extension helps you stay organized by allowing you to save links to web sources and write descriptions for each, all within a simple, user-friendly interface. With features for editing, deleting, and saving sources, this tool is designed to make research more efficient and manageable.
 
-**Features:**
+## **Features:**
 
 Save Active Tab URL: Automatically saves the URL of the active tab along with a custom description.
 
@@ -11,7 +12,7 @@ LocalStorage Support: Sources are saved locally and persist even after closing t
 
 Dynamic UI Updates: The extension dynamically updates the list of saved sources in real-time, ensuring a smooth user experience.
 
-**Technology Stack**
+## **Technology Stack**
 
 HTML: For creating the structure of the extension interface.
 
